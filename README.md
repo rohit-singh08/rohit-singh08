@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/CzXJBVicZfcAAAAC/welcome-welcome-profile.gif)](https://rohit-singh08.io)
+[![MasterHead](https://github.com/rohit-singh08/Namaste/blob/main/coding%20and%20chill.gif)](https://rohit-singh08.io)
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
