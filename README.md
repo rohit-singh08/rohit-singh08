@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/singh08_rohit" target="blank"><img src="https://img.shields.io/twitter/follow/singh08_rohit?logo=twitter&style=for-the-badge" alt="singh08_rohit" /></a> </p>
 
-- 🔭 I’m currently working on **Covid 19 Project**
+- 🔭 I’m currently working on **Netflix Project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
