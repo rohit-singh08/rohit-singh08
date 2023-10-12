@@ -35,3 +35,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-singh08&show_icons=true&locale=en" alt="rohit-singh08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-singh08&" alt="rohit-singh08" /></p>
+
+<hr>
+## Buy me a coffee!
+
+<a href="https://www.buymeacoffee.com/rohitkrsingh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+#
+
+
+
