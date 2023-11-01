@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Netflix Project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **MITx 6.86x Machine Learning**
 
 - 💬 Ask me about **Machine Learning**
 
