@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **rohitkrsingh08@gmail.com**
 
