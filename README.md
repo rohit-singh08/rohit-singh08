@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/singh08_rohit" target="blank"><img src="https://img.shields.io/twitter/follow/singh08_rohit?logo=twitter&style=for-the-badge" alt="singh08_rohit" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Project**
+- 🔭 I’m currently working on **Image Recognition**
 
-- 🌱 I’m currently learning **MITx 6.86x Machine Learning**
+- 🌱 I’m currently learning **Power BI**
 
 - 💬 Ask me about **Machine Learning**
 
