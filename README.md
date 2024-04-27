@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-singh08&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-singh08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/singh08_rohit" target="blank"><img src="https://img.shields.io/twitter/follow/singh08_rohit?logo=twitter&style=for-the-badge" alt="singh08_rohit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rohit_mil_gaya" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_mil_gaya?logo=twitter&style=for-the-badge" alt="rohit_mil_gaya" /></a> </p>
 
 - 🔭 I’m currently working on **Image Recognition**
 
