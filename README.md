@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Image Recognition**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Power-BI**
 
 - 💬 Ask me about **Machine Learning**
 
