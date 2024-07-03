@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohit_mil_gaya" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_mil_gaya?logo=twitter&style=for-the-badge" alt="rohit_mil_gaya" /></a> </p>
 
-- 🔭 I’m currently working on **Image Recognition**
+- 🔭 I’m currently working on **Google Extentions**
 
 - 🌱 I’m currently learning **AWS**
 
